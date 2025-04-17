@@ -19,5 +19,11 @@ This project leverages AI to analyze the performance of system processes in real
 
 ## Author:
 Roll No: 21
+
 ## GUI IMAGE
 ![Image](https://github.com/user-attachments/assets/6c208998-b31b-43bc-8a9c-b2a69910c95e)
+
+## Video
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/f4jWUuEEPsE/0.jpg)](https://youtu.be/f4jWUuEEPsE)
