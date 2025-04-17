@@ -24,6 +24,13 @@ Roll No: 21
 ![Image](https://github.com/user-attachments/assets/6c208998-b31b-43bc-8a9c-b2a69910c95e)
 
 ## Video
-## 🎥 Demo Video
+## 🚀 AI-Powered Performance Analyzer for OS Processes
+
+This project is an intelligent system performance monitoring tool that leverages AI to analyze real-time OS process metrics, detect bottlenecks, forecast resource usage, and suggest optimizations.
+
+### 🎥 Demo Video
 
 [![Watch the demo](https://img.youtube.com/vi/f4jWUuEEPsE/0.jpg)](https://youtu.be/f4jWUuEEPsE)
+
+🔗 [Click here to watch the demo](https://youtu.be/f4jWUuEEPsE)
+
