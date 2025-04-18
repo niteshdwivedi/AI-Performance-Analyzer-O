@@ -30,7 +30,7 @@ This project is an intelligent system performance monitoring tool that leverages
 
 ### 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/f4jWUuEEPsE/0.jpg)](https://youtu.be/f4jWUuEEPsE)
+[![Watch the demo](https://img.youtube.com/vi/f4jWUuEEPsE/0.jpg)](https://youtu.be/O6ivC2OWC_M)
 
-🔗 [Click here to watch the demo](https://youtu.be/f4jWUuEEPsE)
+🔗 [Click here to watch the demo](https://youtu.be/O6ivC2OWC_M)
 
